@@ -1,0 +1,17 @@
+.venv/
+.tools/
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+storage/private/*
+!storage/private/.gitkeep
+**/.dart_tool/
+**/build/
+**/.flutter-plugins-dependencies
+dist/
+**/.gradle/
+**/local.properties
+**/key.properties
+*.jks
+*.keystore

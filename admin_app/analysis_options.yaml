@@ -1,0 +1,8 @@
+analyzer:
+  exclude:
+    - build/**
+    - windows/**
+linter:
+  rules:
+    avoid_print: true
+    use_build_context_synchronously: true
